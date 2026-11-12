@@ -1,0 +1,145 @@
+{
+  "killer": "alexey",
+  "essential_evidence": [
+    "medical",
+    "camera",
+    "glass",
+    "finance"
+  ],
+  "essential_contradictions": [
+    "alexey_visit"
+  ],
+  "contradictions": [
+    {
+      "id": "elena_visit",
+      "person": "elena",
+      "statement": "elena:alibi",
+      "evidence": [
+        "letters"
+      ],
+      "requires_secret": true,
+      "text": "Елена отрицала визит после 20:00, но после предъявления записи признала разговор в кабинете в 20:45. Это скрытая ссора, а не доказанная вина."
+    },
+    {
+      "id": "alexey_visit",
+      "person": "alexey",
+      "statement": "alexey:alibi",
+      "evidence": [
+        "camera"
+      ],
+      "requires_secret": false,
+      "text": "Миронов отрицал визит в кабинет после 20:00. Камера зафиксировала его вход с бокалом в 21:12."
+    },
+    {
+      "id": "anna_return",
+      "person": "anna",
+      "statement": "anna:alibi",
+      "evidence": [
+        "camera"
+      ],
+      "requires_secret": false,
+      "text": "Волкова утверждала, что не возвращалась после 20:40. На записи она входит в особняк в 21:17."
+    },
+    {
+      "id": "mikhail_cameras",
+      "person": "mikhail",
+      "statement": "mikhail:observations",
+      "evidence": [
+        "camera"
+      ],
+      "requires_secret": false,
+      "text": "Соколов говорил о техническом сбое камер. Резервная запись и журнал показывают ручное отключение монитора под его учётной записью."
+    }
+  ],
+  "ending_timeline": [
+    "19:00 — общий ужин; к 20:00 гости расходятся.",
+    "20:40 — Анна уходит из особняка.",
+    "20:45 — Елена обсуждает с Виктором развод; затем уходит в библиотеку.",
+    "21:08–21:42 — Елена разговаривает с сестрой из библиотеки.",
+    "21:10 — Соколов за деньги Миронова отключает основной монитор. Локальный регистратор продолжает запись.",
+    "21:12 — Миронов приносит Орлову отравленный напиток, опасаясь заявления в полицию.",
+    "21:17 — Анна возвращается, в 21:22 прячет копию сверки в своём столе и в 21:24 уходит.",
+    "21:19 — Миронов покидает коридор кабинета. Анна видит его.",
+    "21:35 — Орлов умирает от отравления.",
+    "22:30 — Соколов находит тело во время обхода."
+  ],
+  "motive": "Орлов обнаружил хищение восьми миллионов рублей и намеревался 15 октября обратиться в полицию. Миронов решил заставить его замолчать. Сочетание медицинского заключения, записи визита с бокалом, экспертизы бокала и финансового мотива связывает его с убийством.",
+  "truth": {
+    "killer": "alexey",
+    "victim": "Виктор Орлов",
+    "date": "14 октября",
+    "death_time": "21:35",
+    "method": "Отравленный напиток, переданный в 21:12",
+    "location": "Кабинет Орлова"
+  },
+  "facts": {
+    "poison": {
+      "subject": "victor",
+      "predicate": "cause_of_death",
+      "value": "poison"
+    },
+    "death_window": {
+      "subject": "victor",
+      "predicate": "death_window",
+      "value": [
+        "21:25",
+        "21:45"
+      ]
+    },
+    "elena_call": {
+      "subject": "elena",
+      "predicate": "location",
+      "value": "library",
+      "from": "21:08",
+      "to": "21:42"
+    },
+    "divorce_note": {
+      "subject": "elena",
+      "predicate": "visit",
+      "value": "office",
+      "time": "20:45",
+      "status": "document_requires_confirmation"
+    },
+    "alexey_visit": {
+      "subject": "alexey",
+      "predicate": "visit_with_glass",
+      "value": "office",
+      "time": "21:12"
+    },
+    "anna_return": {
+      "subject": "anna",
+      "predicate": "return",
+      "value": "mansion",
+      "time": "21:17"
+    },
+    "monitor_disabled": {
+      "subject": "mikhail_account",
+      "predicate": "manual_shutdown",
+      "value": "main_monitor",
+      "time": "21:10"
+    },
+    "poisoned_glass": {
+      "subject": "glass",
+      "predicate": "contains",
+      "value": "same_toxicant_as_blood"
+    },
+    "alexey_fingerprints": {
+      "subject": "glass",
+      "predicate": "fingerprints",
+      "value": [
+        "alexey",
+        "victor"
+      ]
+    },
+    "embezzlement": {
+      "subject": "alexey",
+      "predicate": "embezzlement",
+      "value": 8000000
+    },
+    "report_to_police": {
+      "subject": "victor",
+      "predicate": "intends_report",
+      "value": "15 октября"
+    }
+  }
+}

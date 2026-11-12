@@ -1,0 +1,241 @@
+a,b,label,split,group
+Я был в библиотеке весь вечер.,Я не был в библиотеке в тот вечер.,contradiction,train,train_contradiction_0
+Я был в гостиной весь вечер.,Я не был в гостиной в тот вечер.,contradiction,train,train_contradiction_0
+Я был в гараже весь вечер.,Я не был в гараже в тот вечер.,contradiction,train,train_contradiction_0
+Я был в кухне весь вечер.,Я не был в кухне в тот вечер.,contradiction,train,train_contradiction_0
+Я был в кабинете весь вечер.,Я не был в кабинете в тот вечер.,contradiction,train,train_contradiction_0
+Я был в холле весь вечер.,Я не был в холле в тот вечер.,contradiction,train,train_contradiction_0
+В 20:10 я вошел в кабинет.,В кабинет я вошел только в 22:15.,contradiction,train,train_contradiction_1
+В 19:25 я вошел в кабинет.,В кабинет я вошел только в 21:40.,contradiction,train,train_contradiction_1
+В 20:35 я вошел в кабинет.,В кабинет я вошел только в 22:30.,contradiction,train,train_contradiction_1
+В 18:15 я вошел в кабинет.,В кабинет я вошел только в 23:10.,contradiction,train,train_contradiction_1
+В 21:05 я вошел в кабинет.,В кабинет я вошел только в 23:35.,contradiction,train,train_contradiction_1
+В 19:45 я вошел в кабинет.,В кабинет я вошел только в 22:55.,contradiction,train,train_contradiction_1
+Я не видел Игоря вчера.,Я видел Игоря вчера.,contradiction,train,train_contradiction_2
+Я не видел Петра вчера.,Я видел Петра вчера.,contradiction,train,train_contradiction_2
+Я не видел Сергея вчера.,Я видел Сергея вчера.,contradiction,train,train_contradiction_2
+Я не видел Олега вчера.,Я видел Олега вчера.,contradiction,train,train_contradiction_2
+Я не видел Романа вчера.,Я видел Романа вчера.,contradiction,train,train_contradiction_2
+Я не видел Дениса вчера.,Я видел Дениса вчера.,contradiction,train,train_contradiction_2
+Дверь в библиотеке была закрыта.,Дверь в библиотеке была открыта.,contradiction,train,train_contradiction_3
+Дверь в гостиной была закрыта.,Дверь в гостиной была открыта.,contradiction,train,train_contradiction_3
+Дверь в гараже была закрыта.,Дверь в гараже была открыта.,contradiction,train,train_contradiction_3
+Дверь в кухне была закрыта.,Дверь в кухне была открыта.,contradiction,train,train_contradiction_3
+Дверь в кабинете была закрыта.,Дверь в кабинете была открыта.,contradiction,train,train_contradiction_3
+Дверь в холле была закрыта.,Дверь в холле была открыта.,contradiction,train,train_contradiction_3
+Я вернулся в 20:10.,Я никогда не возвращался.,contradiction,train,train_contradiction_4
+Я вернулся в 19:25.,Я никогда не возвращался.,contradiction,train,train_contradiction_4
+Я вернулся в 20:35.,Я никогда не возвращался.,contradiction,train,train_contradiction_4
+Я вернулся в 18:15.,Я никогда не возвращался.,contradiction,train,train_contradiction_4
+Я вернулся в 21:05.,Я никогда не возвращался.,contradiction,train,train_contradiction_4
+Я вернулся в 19:45.,Я никогда не возвращался.,contradiction,train,train_contradiction_4
+В 20:10 я находился один в библиотеке.,В 20:10 я был вместе с гостем в библиотеке.,contradiction,train,train_contradiction_5
+В 19:25 я находился один в гостиной.,В 19:25 я был вместе с гостем в гостиной.,contradiction,train,train_contradiction_5
+В 20:35 я находился один в гараже.,В 20:35 я был вместе с гостем в гараже.,contradiction,train,train_contradiction_5
+В 18:15 я находился один в кухне.,В 18:15 я был вместе с гостем в кухне.,contradiction,train,train_contradiction_5
+В 21:05 я находился один в кабинете.,В 21:05 я был вместе с гостем в кабинете.,contradiction,train,train_contradiction_5
+В 19:45 я находился один в холле.,В 19:45 я был вместе с гостем в холле.,contradiction,train,train_contradiction_5
+В 20:10 я был в библиотеке.,В 20:10 я был на складе на другом конце города.,contradiction,train,train_contradiction_6
+В 19:25 я был в гостиной.,В 19:25 я был на складе на другом конце города.,contradiction,train,train_contradiction_6
+В 20:35 я был в гараже.,В 20:35 я был на складе на другом конце города.,contradiction,train,train_contradiction_6
+В 18:15 я был в кухне.,В 18:15 я был на складе на другом конце города.,contradiction,train,train_contradiction_6
+В 21:05 я был в кабинете.,В 21:05 я был на складе на другом конце города.,contradiction,train,train_contradiction_6
+В 19:45 я был в холле.,В 19:45 я был на складе на другом конце города.,contradiction,train,train_contradiction_6
+Телефон был включен весь вечер.,Телефон был выключен весь вечер.,contradiction,train,train_contradiction_7
+Телефон был включен весь вечер.,Телефон был выключен весь вечер.,contradiction,train,train_contradiction_7
+Телефон был включен весь вечер.,Телефон был выключен весь вечер.,contradiction,train,train_contradiction_7
+Телефон был включен весь вечер.,Телефон был выключен весь вечер.,contradiction,train,train_contradiction_7
+Телефон был включен весь вечер.,Телефон был выключен весь вечер.,contradiction,train,train_contradiction_7
+Телефон был включен весь вечер.,Телефон был выключен весь вечер.,contradiction,train,train_contradiction_7
+Я не касался бокала.,Я держал этот бокал в руке.,contradiction,train,train_contradiction_8
+Я не касался бокала.,Я держал этот бокал в руке.,contradiction,train,train_contradiction_8
+Я не касался бокала.,Я держал этот бокал в руке.,contradiction,train,train_contradiction_8
+Я не касался бокала.,Я держал этот бокал в руке.,contradiction,train,train_contradiction_8
+Я не касался бокала.,Я держал этот бокал в руке.,contradiction,train,train_contradiction_8
+Я не касался бокала.,Я держал этот бокал в руке.,contradiction,train,train_contradiction_8
+Я приехал на машине.,"Я приехал пешком, машины у меня не было.",contradiction,train,train_contradiction_9
+Я приехал на машине.,"Я приехал пешком, машины у меня не было.",contradiction,train,train_contradiction_9
+Я приехал на машине.,"Я приехал пешком, машины у меня не было.",contradiction,train,train_contradiction_9
+Я приехал на машине.,"Я приехал пешком, машины у меня не было.",contradiction,train,train_contradiction_9
+Я приехал на машине.,"Я приехал пешком, машины у меня не было.",contradiction,train,train_contradiction_9
+Я приехал на машине.,"Я приехал пешком, машины у меня не было.",contradiction,train,train_contradiction_9
+Я был в библиотеке в 20:10.,В 20:10 я находился в библиотеке.,consistent,train,train_consistent_0
+Я был в гостиной в 19:25.,В 19:25 я находился в гостиной.,consistent,train,train_consistent_0
+Я был в гараже в 20:35.,В 20:35 я находился в гараже.,consistent,train,train_consistent_0
+Я был в кухне в 18:15.,В 18:15 я находился в кухне.,consistent,train,train_consistent_0
+Я был в кабинете в 21:05.,В 21:05 я находился в кабинете.,consistent,train,train_consistent_0
+Я был в холле в 19:45.,В 19:45 я находился в холле.,consistent,train,train_consistent_0
+Я не видел Игоря.,С Игоря я не встречался.,consistent,train,train_consistent_1
+Я не видел Петра.,С Петра я не встречался.,consistent,train,train_consistent_1
+Я не видел Сергея.,С Сергея я не встречался.,consistent,train,train_consistent_1
+Я не видел Олега.,С Олега я не встречался.,consistent,train,train_consistent_1
+Я не видел Романа.,С Романа я не встречался.,consistent,train,train_consistent_1
+Я не видел Дениса.,С Дениса я не встречался.,consistent,train,train_consistent_1
+Дверь в библиотеке была закрыта.,Вход в библиотеке был закрыт.,consistent,train,train_consistent_2
+Дверь в гостиной была закрыта.,Вход в гостиной был закрыт.,consistent,train,train_consistent_2
+Дверь в гараже была закрыта.,Вход в гараже был закрыт.,consistent,train,train_consistent_2
+Дверь в кухне была закрыта.,Вход в кухне был закрыт.,consistent,train,train_consistent_2
+Дверь в кабинете была закрыта.,Вход в кабинете был закрыт.,consistent,train,train_consistent_2
+Дверь в холле была закрыта.,Вход в холле был закрыт.,consistent,train,train_consistent_2
+Я вошел в 20:10 и ушел в 22:15.,"В 20:10 я пришел, в 22:15 покинул дом.",consistent,train,train_consistent_3
+Я вошел в 19:25 и ушел в 21:40.,"В 19:25 я пришел, в 21:40 покинул дом.",consistent,train,train_consistent_3
+Я вошел в 20:35 и ушел в 22:30.,"В 20:35 я пришел, в 22:30 покинул дом.",consistent,train,train_consistent_3
+Я вошел в 18:15 и ушел в 23:10.,"В 18:15 я пришел, в 23:10 покинул дом.",consistent,train,train_consistent_3
+Я вошел в 21:05 и ушел в 23:35.,"В 21:05 я пришел, в 23:35 покинул дом.",consistent,train,train_consistent_3
+Я вошел в 19:45 и ушел в 22:55.,"В 19:45 я пришел, в 22:55 покинул дом.",consistent,train,train_consistent_3
+Я ушел после ужина.,"Когда ужин закончился, я ушел.",consistent,train,train_consistent_4
+Я ушел после ужина.,"Когда ужин закончился, я ушел.",consistent,train,train_consistent_4
+Я ушел после ужина.,"Когда ужин закончился, я ушел.",consistent,train,train_consistent_4
+Я ушел после ужина.,"Когда ужин закончился, я ушел.",consistent,train,train_consistent_4
+Я ушел после ужина.,"Когда ужин закончился, я ушел.",consistent,train,train_consistent_4
+Я ушел после ужина.,"Когда ужин закончился, я ушел.",consistent,train,train_consistent_4
+Телефон был включен.,Мой телефон работал.,consistent,train,train_consistent_5
+Телефон был включен.,Мой телефон работал.,consistent,train,train_consistent_5
+Телефон был включен.,Мой телефон работал.,consistent,train,train_consistent_5
+Телефон был включен.,Мой телефон работал.,consistent,train,train_consistent_5
+Телефон был включен.,Мой телефон работал.,consistent,train,train_consistent_5
+Телефон был включен.,Мой телефон работал.,consistent,train,train_consistent_5
+Я разговаривал с Игоря.,Собеседником был Игоря.,consistent,train,train_consistent_6
+Я разговаривал с Петра.,Собеседником был Петра.,consistent,train,train_consistent_6
+Я разговаривал с Сергея.,Собеседником был Сергея.,consistent,train,train_consistent_6
+Я разговаривал с Олега.,Собеседником был Олега.,consistent,train,train_consistent_6
+Я разговаривал с Романа.,Собеседником был Романа.,consistent,train,train_consistent_6
+Я разговаривал с Дениса.,Собеседником был Дениса.,consistent,train,train_consistent_6
+Я не возвращался в особняк.,Обратно в особняк я не приходил.,consistent,train,train_consistent_7
+Я не возвращался в особняк.,Обратно в особняк я не приходил.,consistent,train,train_consistent_7
+Я не возвращался в особняк.,Обратно в особняк я не приходил.,consistent,train,train_consistent_7
+Я не возвращался в особняк.,Обратно в особняк я не приходил.,consistent,train,train_consistent_7
+Я не возвращался в особняк.,Обратно в особняк я не приходил.,consistent,train,train_consistent_7
+Я не возвращался в особняк.,Обратно в особняк я не приходил.,consistent,train,train_consistent_7
+Я был в библиотеке.,Я был в библиотеке.,consistent,train,train_consistent_8
+Я был в гостиной.,Я был в гостиной.,consistent,train,train_consistent_8
+Я был в гараже.,Я был в гараже.,consistent,train,train_consistent_8
+Я был в кухне.,Я был в кухне.,consistent,train,train_consistent_8
+Я был в кабинете.,Я был в кабинете.,consistent,train,train_consistent_8
+Я был в холле.,Я был в холле.,consistent,train,train_consistent_8
+Я держал бокал в руке.,Мои отпечатки могли остаться на бокале.,consistent,train,train_consistent_9
+Я держал бокал в руке.,Мои отпечатки могли остаться на бокале.,consistent,train,train_consistent_9
+Я держал бокал в руке.,Мои отпечатки могли остаться на бокале.,consistent,train,train_consistent_9
+Я держал бокал в руке.,Мои отпечатки могли остаться на бокале.,consistent,train,train_consistent_9
+Я держал бокал в руке.,Мои отпечатки могли остаться на бокале.,consistent,train,train_consistent_9
+Я держал бокал в руке.,Мои отпечатки могли остаться на бокале.,consistent,train,train_consistent_9
+Я был в библиотеке в 20:10.,Телефон принадлежит Игоря.,unknown,train,train_unknown_0
+Я был в гостиной в 19:25.,Телефон принадлежит Петра.,unknown,train,train_unknown_0
+Я был в гараже в 20:35.,Телефон принадлежит Сергея.,unknown,train,train_unknown_0
+Я был в кухне в 18:15.,Телефон принадлежит Олега.,unknown,train,train_unknown_0
+Я был в кабинете в 21:05.,Телефон принадлежит Романа.,unknown,train,train_unknown_0
+Я был в холле в 19:45.,Телефон принадлежит Дениса.,unknown,train,train_unknown_0
+Я ушел в 20:10.,Игоря ушел в 22:15.,unknown,train,train_unknown_1
+Я ушел в 19:25.,Петра ушел в 21:40.,unknown,train,train_unknown_1
+Я ушел в 20:35.,Сергея ушел в 22:30.,unknown,train,train_unknown_1
+Я ушел в 18:15.,Олега ушел в 23:10.,unknown,train,train_unknown_1
+Я ушел в 21:05.,Романа ушел в 23:35.,unknown,train,train_unknown_1
+Я ушел в 19:45.,Дениса ушел в 22:55.,unknown,train,train_unknown_1
+Я не видел хозяина.,Дверь была закрыта.,unknown,train,train_unknown_2
+Я не видел хозяина.,Дверь была закрыта.,unknown,train,train_unknown_2
+Я не видел хозяина.,Дверь была закрыта.,unknown,train,train_unknown_2
+Я не видел хозяина.,Дверь была закрыта.,unknown,train,train_unknown_2
+Я не видел хозяина.,Дверь была закрыта.,unknown,train,train_unknown_2
+Я не видел хозяина.,Дверь была закрыта.,unknown,train,train_unknown_2
+Финансовый отчет подписан.,На улице шел дождь.,unknown,train,train_unknown_3
+Финансовый отчет подписан.,На улице шел дождь.,unknown,train,train_unknown_3
+Финансовый отчет подписан.,На улице шел дождь.,unknown,train,train_unknown_3
+Финансовый отчет подписан.,На улице шел дождь.,unknown,train,train_unknown_3
+Финансовый отчет подписан.,На улице шел дождь.,unknown,train,train_unknown_3
+Финансовый отчет подписан.,На улице шел дождь.,unknown,train,train_unknown_3
+Я люблю читать в библиотеке.,Преступление совершено ночью.,unknown,train,train_unknown_4
+Я люблю читать в гостиной.,Преступление совершено ночью.,unknown,train,train_unknown_4
+Я люблю читать в гараже.,Преступление совершено ночью.,unknown,train,train_unknown_4
+Я люблю читать в кухне.,Преступление совершено ночью.,unknown,train,train_unknown_4
+Я люблю читать в кабинете.,Преступление совершено ночью.,unknown,train,train_unknown_4
+Я люблю читать в холле.,Преступление совершено ночью.,unknown,train,train_unknown_4
+У меня есть машина.,В бокале найден яд.,unknown,train,train_unknown_5
+У меня есть машина.,В бокале найден яд.,unknown,train,train_unknown_5
+У меня есть машина.,В бокале найден яд.,unknown,train,train_unknown_5
+У меня есть машина.,В бокале найден яд.,unknown,train,train_unknown_5
+У меня есть машина.,В бокале найден яд.,unknown,train,train_unknown_5
+У меня есть машина.,В бокале найден яд.,unknown,train,train_unknown_5
+Я видел Игоря вчера.,Камеры не работали.,unknown,train,train_unknown_6
+Я видел Петра вчера.,Камеры не работали.,unknown,train,train_unknown_6
+Я видел Сергея вчера.,Камеры не работали.,unknown,train,train_unknown_6
+Я видел Олега вчера.,Камеры не работали.,unknown,train,train_unknown_6
+Я видел Романа вчера.,Камеры не работали.,unknown,train,train_unknown_6
+Я видел Дениса вчера.,Камеры не работали.,unknown,train,train_unknown_6
+Кто-то был в библиотеке.,"Я не знаю, кому звонил хозяин.",unknown,train,train_unknown_7
+Кто-то был в гостиной.,"Я не знаю, кому звонил хозяин.",unknown,train,train_unknown_7
+Кто-то был в гараже.,"Я не знаю, кому звонил хозяин.",unknown,train,train_unknown_7
+Кто-то был в кухне.,"Я не знаю, кому звонил хозяин.",unknown,train,train_unknown_7
+Кто-то был в кабинете.,"Я не знаю, кому звонил хозяин.",unknown,train,train_unknown_7
+Кто-то был в холле.,"Я не знаю, кому звонил хозяин.",unknown,train,train_unknown_7
+Телефон был включен.,Я работал с документами.,unknown,train,train_unknown_8
+Телефон был включен.,Я работал с документами.,unknown,train,train_unknown_8
+Телефон был включен.,Я работал с документами.,unknown,train,train_unknown_8
+Телефон был включен.,Я работал с документами.,unknown,train,train_unknown_8
+Телефон был включен.,Я работал с документами.,unknown,train,train_unknown_8
+Телефон был включен.,Я работал с документами.,unknown,train,train_unknown_8
+Охранник вышел во двор.,В кабинете стояли часы.,unknown,train,train_unknown_9
+Охранник вышел во двор.,В кабинете стояли часы.,unknown,train,train_unknown_9
+Охранник вышел во двор.,В кабинете стояли часы.,unknown,train,train_unknown_9
+Охранник вышел во двор.,В кабинете стояли часы.,unknown,train,train_unknown_9
+Охранник вышел во двор.,В кабинете стояли часы.,unknown,train,train_unknown_9
+Охранник вышел во двор.,В кабинете стояли часы.,unknown,train,train_unknown_9
+Ни разу за вечер я не посещал библиотеке.,Я все-таки заходил в библиотеке тем вечером.,contradiction,test,test_contradiction_0
+Ни разу за вечер я не посещал гостиной.,Я все-таки заходил в гостиной тем вечером.,contradiction,test,test_contradiction_0
+Ни разу за вечер я не посещал гараже.,Я все-таки заходил в гараже тем вечером.,contradiction,test,test_contradiction_0
+Ни разу за вечер я не посещал кухне.,Я все-таки заходил в кухне тем вечером.,contradiction,test,test_contradiction_0
+Встреча с Игоря состоялась ровно в 20:10.,"Та встреча с Игоря прошла ровно в 22:15, а не в 20:10.",contradiction,test,test_contradiction_1
+Встреча с Петра состоялась ровно в 19:25.,"Та встреча с Петра прошла ровно в 21:40, а не в 19:25.",contradiction,test,test_contradiction_1
+Встреча с Сергея состоялась ровно в 20:35.,"Та встреча с Сергея прошла ровно в 22:30, а не в 20:35.",contradiction,test,test_contradiction_1
+Встреча с Олега состоялась ровно в 18:15.,"Та встреча с Олега прошла ровно в 23:10, а не в 18:15.",contradiction,test,test_contradiction_1
+"По моим словам, вход оставался закрытым.",На самом деле вход был открыт.,contradiction,test,test_contradiction_2
+"По моим словам, вход оставался закрытым.",На самом деле вход был открыт.,contradiction,test,test_contradiction_2
+"По моим словам, вход оставался закрытым.",На самом деле вход был открыт.,contradiction,test,test_contradiction_2
+"По моим словам, вход оставался закрытым.",На самом деле вход был открыт.,contradiction,test,test_contradiction_2
+"Я утверждаю, что не брал телефон.",Признаюсь: я брал телефон.,contradiction,test,test_contradiction_3
+"Я утверждаю, что не брал телефон.",Признаюсь: я брал телефон.,contradiction,test,test_contradiction_3
+"Я утверждаю, что не брал телефон.",Признаюсь: я брал телефон.,contradiction,test,test_contradiction_3
+"Я утверждаю, что не брал телефон.",Признаюсь: я брал телефон.,contradiction,test,test_contradiction_3
+Все время в библиотеке никого кроме меня не было.,В библиотеке вместе со мной был Игоря.,contradiction,test,test_contradiction_4
+Все время в гостиной никого кроме меня не было.,В гостиной вместе со мной был Петра.,contradiction,test,test_contradiction_4
+Все время в гараже никого кроме меня не было.,В гараже вместе со мной был Сергея.,contradiction,test,test_contradiction_4
+Все время в кухне никого кроме меня не было.,В кухне вместе со мной был Олега.,contradiction,test,test_contradiction_4
+Мое прибытие записано в журнале в 20:10.,Время моего прихода по журналу — 20:10.,consistent,test,test_consistent_0
+Мое прибытие записано в журнале в 19:25.,Время моего прихода по журналу — 19:25.,consistent,test,test_consistent_0
+Мое прибытие записано в журнале в 20:35.,Время моего прихода по журналу — 20:35.,consistent,test,test_consistent_0
+Мое прибытие записано в журнале в 18:15.,Время моего прихода по журналу — 18:15.,consistent,test,test_consistent_0
+"Отрицаю, что посещал библиотеке.",Ни разу в библиотеке я не был.,consistent,test,test_consistent_1
+"Отрицаю, что посещал гостиной.",Ни разу в гостиной я не был.,consistent,test,test_consistent_1
+"Отрицаю, что посещал гараже.",Ни разу в гараже я не был.,consistent,test,test_consistent_1
+"Отрицаю, что посещал кухне.",Ни разу в кухне я не был.,consistent,test,test_consistent_1
+Мы с Игоря были знакомы еще до ужина.,С Игоря я познакомился раньше того ужина.,consistent,test,test_consistent_2
+Мы с Петра были знакомы еще до ужина.,С Петра я познакомился раньше того ужина.,consistent,test,test_consistent_2
+Мы с Сергея были знакомы еще до ужина.,С Сергея я познакомился раньше того ужина.,consistent,test,test_consistent_2
+Мы с Олега были знакомы еще до ужина.,С Олега я познакомился раньше того ужина.,consistent,test,test_consistent_2
+После 20:10 я оставался в библиотеке.,библиотеке я не покидал после 20:10.,consistent,test,test_consistent_3
+После 19:25 я оставался в гостиной.,гостиной я не покидал после 19:25.,consistent,test,test_consistent_3
+После 20:35 я оставался в гараже.,гараже я не покидал после 20:35.,consistent,test,test_consistent_3
+После 18:15 я оставался в кухне.,кухне я не покидал после 18:15.,consistent,test,test_consistent_3
+Я сделал копию отчета.,Копия отчета была изготовлена мной.,consistent,test,test_consistent_4
+Я сделал копию отчета.,Копия отчета была изготовлена мной.,consistent,test,test_consistent_4
+Я сделал копию отчета.,Копия отчета была изготовлена мной.,consistent,test,test_consistent_4
+Я сделал копию отчета.,Копия отчета была изготовлена мной.,consistent,test,test_consistent_4
+Собеседник помнит Игоря.,Вещь обнаружили в библиотеке.,unknown,test,test_unknown_0
+Собеседник помнит Петра.,Вещь обнаружили в гостиной.,unknown,test,test_unknown_0
+Собеседник помнит Сергея.,Вещь обнаружили в гараже.,unknown,test,test_unknown_0
+Собеседник помнит Олега.,Вещь обнаружили в кухне.,unknown,test,test_unknown_0
+Свет погас в 20:10.,"Пропали ли документы, неизвестно.",unknown,test,test_unknown_1
+Свет погас в 19:25.,"Пропали ли документы, неизвестно.",unknown,test,test_unknown_1
+Свет погас в 20:35.,"Пропали ли документы, неизвестно.",unknown,test,test_unknown_1
+Свет погас в 18:15.,"Пропали ли документы, неизвестно.",unknown,test,test_unknown_1
+Моя работа связана с охраной.,Последний звонок был в 22:15.,unknown,test,test_unknown_2
+Моя работа связана с охраной.,Последний звонок был в 21:40.,unknown,test,test_unknown_2
+Моя работа связана с охраной.,Последний звонок был в 22:30.,unknown,test,test_unknown_2
+Моя работа связана с охраной.,Последний звонок был в 23:10.,unknown,test,test_unknown_2
+Я не прикасался к письму.,"Игоря не знает, где хранится ключ.",unknown,test,test_unknown_3
+Я не прикасался к письму.,"Петра не знает, где хранится ключ.",unknown,test,test_unknown_3
+Я не прикасался к письму.,"Сергея не знает, где хранится ключ.",unknown,test,test_unknown_3
+Я не прикасался к письму.,"Олега не знает, где хранится ключ.",unknown,test,test_unknown_3
+В отчете названо имя Игоря.,"Кто совершил убийство, отчет не устанавливает.",unknown,test,test_unknown_4
+В отчете названо имя Петра.,"Кто совершил убийство, отчет не устанавливает.",unknown,test,test_unknown_4
+В отчете названо имя Сергея.,"Кто совершил убийство, отчет не устанавливает.",unknown,test,test_unknown_4
+В отчете названо имя Олега.,"Кто совершил убийство, отчет не устанавливает.",unknown,test,test_unknown_4
